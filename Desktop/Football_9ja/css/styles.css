@@ -69,8 +69,9 @@ p{
 /*Buy Section*/
 form input{
     width: 30%;
-    border-radius: 5px;
+    border-radius: 20px;
     height: 40px;
+    border: 3px solid blue;
 }
 .o{
     background-color: orange;
